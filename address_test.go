@@ -14,7 +14,7 @@ import (
 
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/tjaxer/mbtcutil"
 	"golang.org/x/crypto/ripemd160"
 )
 

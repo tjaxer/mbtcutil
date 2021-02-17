@@ -11,8 +11,8 @@ import (
 
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/bloom"
+	"github.com/tjaxer/mbtcutil"
+	"github.com/tjaxer/mbtcutil/bloom"
 )
 
 // TestFilterLarge ensures a maximum sized filter can be created.
