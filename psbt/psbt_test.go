@@ -11,11 +11,11 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/tjaxer/mbtcutil"
 	"github.com/davecgh/go-spew/spew"
+	"github.com/tjaxer/mbtcd/chaincfg/chainhash"
+	"github.com/tjaxer/mbtcd/txscript"
+	"github.com/tjaxer/mbtcd/wire"
+	"github.com/tjaxer/mbtcutil"
 )
 
 // Test vectors from:

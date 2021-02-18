@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/tjaxer/mbtcd/btcec"
+	"github.com/tjaxer/mbtcd/chaincfg"
 	"github.com/tjaxer/mbtcutil/base58"
 	"github.com/tjaxer/mbtcutil/bech32"
 	"golang.org/x/crypto/ripemd160"

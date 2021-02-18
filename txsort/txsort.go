@@ -11,8 +11,8 @@ import (
 	"bytes"
 	"sort"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/tjaxer/mbtcd/chaincfg/chainhash"
+	"github.com/tjaxer/mbtcd/wire"
 )
 
 // InPlaceSort modifies the passed transaction inputs and outputs to be sorted

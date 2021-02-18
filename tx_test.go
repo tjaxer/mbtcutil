@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/tjaxer/mbtcutil"
 	"github.com/davecgh/go-spew/spew"
+	"github.com/tjaxer/mbtcd/chaincfg/chainhash"
+	"github.com/tjaxer/mbtcutil"
 )
 
 // TestTx tests the API for Tx.

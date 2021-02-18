@@ -14,8 +14,8 @@ import (
 	"bytes"
 	"crypto/sha256"
 
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/tjaxer/mbtcd/txscript"
+	"github.com/tjaxer/mbtcd/wire"
 	"github.com/tjaxer/mbtcutil"
 )
 

@@ -7,7 +7,7 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/tjaxer/mbtcd/chaincfg"
 	"github.com/tjaxer/mbtcutil/hdkeychain"
 )
 

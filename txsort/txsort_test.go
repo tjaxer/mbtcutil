@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/btcsuite/btcd/wire"
+	"github.com/tjaxer/mbtcd/wire"
 	"github.com/tjaxer/mbtcutil/txsort"
 )
 
